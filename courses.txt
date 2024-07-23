@@ -4,3 +4,5 @@ SEng-5131 Requirements Engineering
 SEng-5331 Software Engineering Tools and Practices
 SEng-7131 Web Design and Programming
 SEng-7431 Fundamentals of Software Security
+
+END OF SEMESTER
